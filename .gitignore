@@ -41,3 +41,6 @@ venv/
 .DS_Store
 *.swp
 *~
+
+# Build-instruction file — keep local, never publish
+CLAUDE.md
