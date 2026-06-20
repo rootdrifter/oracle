@@ -54,7 +54,7 @@ classes). Desert averages 0.32 brightness; Water reaches 0.58. HSV saturation me
 to 0.35 — significant photometric diversity that rules out simple colour-histogram classifiers.
 
 **Data split:** Stratified 70 / 20 / 10 (train 3,941 / val 1,126 / test 563), identical across
-all three models to ensure comparability.
+all four models to ensure comparability.
 
 ---
 
