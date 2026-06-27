@@ -301,4 +301,4 @@ not come free with accuracy.
 
 ---
 
-*Part of the [rootdrifter](https://github.com/rootdrifter) security portfolio — full writeup at [rootdrifter.io/portfolio/oracle/](https://rootdrifter.io/portfolio/oracle/). Built and maintained by a security-cleared candidate. UK-issued clearance held now, not pending vetting: deployable to cleared work from day one.*
+*Part of the [rootdrifter](https://github.com/rootdrifter) security portfolio — full writeup at [rootdrifter.io/portfolio/oracle/](https://rootdrifter.io/portfolio/oracle/). Built and maintained by a security-cleared candidate — current UK government clearance obtained through employment in a high-security environment.*
